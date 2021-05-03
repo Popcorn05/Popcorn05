@@ -1,1 +1,1 @@
-Honestly I'm just a stinky student who uses this for version control exclusively
+just figured out that liscences exist lol gnu is cool
